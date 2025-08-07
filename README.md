@@ -226,6 +226,3 @@ Se você encontrar algum problema ou tiver dúvidas:
 3. Teste com arquivos de áudio menores primeiro
 4. Abra uma issue no GitHub
 
----
-
-**Desenvolvido com ❤️ usando Node.js, FFmpeg e Groq Whisper**
